@@ -1,0 +1,19 @@
+.titulo, .botones {
+    text-align: center;
+}
+
+button {
+    padding: 15px 22px;
+    margin-right: 10px;
+    border-style: none;
+    font-size:large;
+}
+
+.b1 {
+    background-color: bisque;
+}
+
+.b2 {
+    background-color: cadetblue;
+    color:white;
+}
