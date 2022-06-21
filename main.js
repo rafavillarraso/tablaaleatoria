@@ -1,3 +1,3 @@
 function crearTabla(){
-    document.getElementById(tabla).innerHTML="hola!";
+    return document.getElementById("tabla").innerHTML="hola!";
 }
