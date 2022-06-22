@@ -2,11 +2,22 @@
     text-align: center;
 }
 
+button {
+    padding: 12px 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 100px;
+}
+
 .b1 {
     background-color: bisque;
 }
 
 .b2 {
-    background-color: cadetblue;
-    color:white;
+    background-color:beige;
 }
+
+.b3 {
+    background-color: gray;
+    color: white;
+} 
